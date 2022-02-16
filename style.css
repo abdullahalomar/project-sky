@@ -1,0 +1,183 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+/* hearder */
+.blue-text{
+    color: #3f68d4;
+}
+.title-class{
+    margin-top: 200px;
+    margin-left: 88px;
+}
+.fist-para{
+    font-size: 20px;
+}
+.title-para{
+    font-size: 50px;
+}
+/* header end */
+
+/* service start */
+.first-sec{
+    background-color: #f0f0f0;
+    padding-top: 50px;
+    padding-bottom: 140px;
+}
+.center{
+    margin-left: 445px;
+}
+.line{
+    height: 2px;
+    width: 129px;
+    margin-left: 448px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.icon-img{
+    padding-bottom: 80px;
+}
+.lorem{
+    
+    padding-left: 15px;
+}
+/* service end */
+
+/* about-start */
+.line-two{
+    height: 2px;
+    width: 110px;
+    margin-left: 3px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.view{
+    background-color: #3f68d4;
+    border: none;
+    color: white;
+    padding: 7px 22px 7px 22px;
+}
+.about-img{
+    margin-left: 45px;
+}
+.about-sec{
+    margin-bottom: 150px;
+}
+/* about-start */
+
+/* work start */
+.line-three{
+    height: 2px;
+    width: 125px;
+    margin-left: 1px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.bag{
+    width: 250px;
+    margin-left: 370px;
+    margin-bottom: 200px;
+}
+
+/* work end */
+
+/* progress start */
+.progress{
+    background-color: #e6ecfd;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.progres-f {
+    padding-left: 90px;
+}
+.gap{
+    margin-left: 10px;
+}
+/* progress end */
+
+/* skill start */
+.skill-title{
+    padding-bottom: 15px;
+}
+.wordpress{
+    height: 5px;
+    width: 440px;
+    margin-left: 3px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.html{
+    height: 5px;
+    width: 425px;
+    margin-left: 3px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.aftereffects{
+    height: 5px;
+    width: 445px;
+    margin-left: 3px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.photoshop{
+    height: 5px;
+    width: 415px;
+    margin-left: 3px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+
+.progres{
+    padding-bottom: 15px;
+}
+/* skill end */
+
+/* notification start */
+.identification-img{
+    background-image: url('media/id-image.png');
+    padding-top: 145px;
+    padding-bottom: 122px;
+    margin-top: 60px;
+    color: white;
+    margin-bottom: 100px;
+}
+/* notification end */
+
+/* blog start */
+.line-four{
+    height: 2px;
+    width: 127px;
+    margin-left: 494px;
+    margin-bottom: 8px;
+    background-color: gray;
+}
+.h-five{
+    margin-top: 15px;
+}
+
+/* blog end */
+
+/* footer start */
+.footer-bg{
+    background-color: #03050c;
+    margin-top: 100px;
+    padding-top: 90px;
+    padding-bottom: 10px;
+    color: white;
+}
+.foot-lorem{
+    margin-top: 25px;
+    padding-bottom: 30px;
+}
+.social{
+    background-color: white;
+}
+.footer-button{
+    padding: 5px 40px 5px 40px;
+    background-color: #3f68d4;
+    color: white;
+}
+/* footer end */
